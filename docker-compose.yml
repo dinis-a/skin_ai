@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: dinisak/skin_ai
+    image: ghcr.io/dinis-a/skin_ai:latest
     env_file:
       - .env
     restart: unless-stopped
