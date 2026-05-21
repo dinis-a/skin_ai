@@ -1,6 +1,6 @@
 # Skin AI — AI-Powered Skin Tumor Diagnosis Telegram Bot
 
-[![CI](https://github.com/dinisak/skin_ai/actions/workflows/ci.yml/badge.svg)](https://github.com/dinisak/skin_ai/actions/workflows/ci.yml)
+[![CI](https://github.com/dinis-a/skin_ai/actions/workflows/ci.yml/badge.svg)](https://github.com/dinis-a/skin_ai/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://docs.docker.com/)
@@ -62,7 +62,7 @@ skin_ai/
 ### Quick Start
 
 ```bash
-git clone https://github.com/dinisak/skin_ai.git
+git clone https://github.com/dinis-a/skin_ai.git
 cd skin_ai
 cp .env.example .env   # then edit .env with your credentials
 
