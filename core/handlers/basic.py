@@ -15,8 +15,8 @@ logger = logging.getLogger(__name__)
 API_URL = os.getenv('API_URL', '')
 API_TOKEN = os.getenv('API_TOKEN', '')
 
-tg_token = os.getenv('tg_token')
-tg_chat_id = os.getenv('tg_chat_id')
+tg_token = os.getenv('tg_token', '')
+tg_chat_id = os.getenv('tg_chat_id', '')
 
 
 def send2tg(message):
