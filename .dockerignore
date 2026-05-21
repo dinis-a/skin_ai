@@ -15,7 +15,6 @@ __pycache__
 input
 logs
 photos
-assets
 tests
 .github
 .pre-commit-config.yaml
